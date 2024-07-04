@@ -1,6 +1,6 @@
 # ChickyChickyPlannerPLUS
 
-A flutter project originally from ChickyChickyPlanner APP with addition feature.
+A flutter project originally from ChickyChickyPlanner APP with addition features.
 
 ## Description
 
